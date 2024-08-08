@@ -1,10 +1,10 @@
 #--------------------------------------------------------
 # Fill this in
 # -------------------------------------------------------
-difficulty_level = 'easy'
-function_name = 'mySqrt'
-test_cases_num = 2
-var_list = ['x']
+difficulty_level = 'medium'
+function_name = 'addTwoNumbers'
+test_cases_num = 3
+var_list = ['l1']
 
 #--------------------------------------------------------
 # To get largest count.
